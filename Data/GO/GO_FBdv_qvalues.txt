@@ -1,0 +1,72 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20221013)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.6799722 Released 2022-07-01
+Analyzed List:	upload_1 (Drosophila melanogaster)
+Reference List:	Drosophila melanogaster (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Drosophila melanogaster - REFLIST (13821)	upload_1 (2608)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+regulation of female receptivity, post-mating (GO:0046008)	22	17	4.15	+	4.10	3.69E-05	8.99E-03
+sperm competition (GO:0046692)	21	16	3.96	+	4.04	7.02E-05	1.48E-02
+multi-multicellular organism process (GO:0044706)	24	18	4.53	+	3.97	2.90E-05	9.03E-03
+insemination (GO:0007320)	24	18	4.53	+	3.97	2.90E-05	8.68E-03
+multi-organism reproductive process (GO:0044703)	25	18	4.72	+	3.82	4.25E-05	9.46E-03
+regulation of female receptivity (GO:0045924)	37	24	6.98	+	3.44	8.55E-06	4.76E-03
+copulation (GO:0007620)	30	19	5.66	+	3.36	9.21E-05	1.84E-02
+female mating behavior (GO:0060180)	44	25	8.30	+	3.01	3.63E-05	9.12E-03
+cellular carbohydrate metabolic process (GO:0044262)	84	34	15.85	+	2.15	3.38E-04	4.39E-02
+tRNA processing (GO:0008033)	95	38	17.93	+	2.12	1.86E-04	2.68E-02
+RNA modification (GO:0009451)	109	43	20.57	+	2.09	1.19E-04	2.02E-02
+innate immune response (GO:0045087)	113	44	21.32	+	2.06	1.01E-04	1.79E-02
+immune response (GO:0006955)	183	64	34.53	+	1.85	4.66E-05	1.01E-02
+defense response (GO:0006952)	370	108	69.82	+	1.55	9.98E-05	1.81E-02
+defense response to other organism (GO:0098542)	353	102	66.61	+	1.53	2.00E-04	2.83E-02
+response to external biotic stimulus (GO:0043207)	395	114	74.54	+	1.53	9.71E-05	1.89E-02
+response to other organism (GO:0051707)	395	114	74.54	+	1.53	9.71E-05	1.84E-02
+response to biotic stimulus (GO:0009607)	395	114	74.54	+	1.53	9.71E-05	1.80E-02
+biological process involved in interspecies interaction between organisms (GO:0044419)	441	123	83.22	+	1.48	1.67E-04	2.45E-02
+small molecule metabolic process (GO:0044281)	778	210	146.81	+	1.43	4.37E-06	2.84E-03
+sexual reproduction (GO:0019953)	1149	295	216.81	+	1.36	1.60E-06	1.25E-03
+reproduction (GO:0000003)	1429	342	269.65	+	1.27	4.13E-05	9.46E-03
+organic substance metabolic process (GO:0071704)	4308	937	812.91	+	1.15	2.12E-06	1.50E-03
+primary metabolic process (GO:0044238)	4067	878	767.44	+	1.14	1.83E-05	6.22E-03
+metabolic process (GO:0008152)	4578	979	863.86	+	1.13	1.47E-05	5.71E-03
+organelle organization (GO:0006996)	1566	234	295.50	-	.79	3.30E-04	4.35E-02
+cellular macromolecule metabolic process (GO:0044260)	1355	194	255.69	-	.76	1.07E-04	1.85E-02
+protein-containing complex organization (GO:0043933)	528	63	99.63	-	.63	2.92E-04	3.98E-02
+macromolecule catabolic process (GO:0009057)	498	57	93.97	-	.61	1.48E-04	2.30E-02
+microtubule-based process (GO:0007017)	476	51	89.82	-	.57	3.54E-05	9.20E-03
+microtubule cytoskeleton organization (GO:0000226)	352	37	66.42	-	.56	3.21E-04	4.32E-02
+cellular macromolecule biosynthetic process (GO:0034645)	505	53	95.29	-	.56	1.18E-05	6.13E-03
+cellular macromolecule catabolic process (GO:0044265)	428	44	80.76	-	.54	3.94E-05	9.31E-03
+peptide metabolic process (GO:0006518)	410	40	77.37	-	.52	1.44E-05	5.90E-03
+protein modification by small protein conjugation or removal (GO:0070647)	296	28	55.85	-	.50	1.56E-04	2.33E-02
+detection of stimulus (GO:0051606)	245	21	46.23	-	.45	1.31E-04	2.08E-02
+male gamete generation (GO:0048232)	315	27	59.44	-	.45	1.29E-05	5.90E-03
+amide biosynthetic process (GO:0043604)	350	30	66.04	-	.45	4.66E-06	2.80E-03
+spermatogenesis (GO:0007283)	271	22	51.14	-	.43	2.39E-05	7.74E-03
+modification-dependent macromolecule catabolic process (GO:0043632)	324	25	61.14	-	.41	1.21E-06	1.05E-03
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	222	17	41.89	-	.41	7.49E-05	1.54E-02
+mitochondrion organization (GO:0007005)	239	18	45.10	-	.40	3.04E-05	8.78E-03
+proteasomal protein catabolic process (GO:0010498)	234	17	44.16	-	.39	1.71E-05	6.36E-03
+ubiquitin-dependent protein catabolic process (GO:0006511)	312	22	58.87	-	.37	3.13E-07	3.48E-04
+modification-dependent protein catabolic process (GO:0019941)	316	22	59.63	-	.37	2.35E-07	3.66E-04
+protein catabolic process (GO:0030163)	348	24	65.67	-	.37	3.65E-08	9.48E-05
+proteolysis involved in protein catabolic process (GO:0051603)	337	23	63.59	-	.36	5.01E-08	9.77E-05
+spermatid development (GO:0007286)	127	7	23.96	-	.29	2.06E-04	2.86E-02
+detection of stimulus involved in sensory perception (GO:0050906)	131	7	24.72	-	.28	1.48E-04	2.26E-02
+peptide biosynthetic process (GO:0043043)	310	16	58.50	-	.27	8.29E-10	3.23E-06
+translation (GO:0006412)	304	15	57.36	-	.26	5.32E-10	4.15E-06
+detection of chemical stimulus (GO:0009593)	168	6	31.70	-	.19	3.12E-07	4.05E-04
+detection of chemical stimulus involved in sensory perception (GO:0050907)	106	3	20.00	-	.15	1.73E-05	6.13E-03
+aerobic respiration (GO:0009060)	110	3	20.76	-	.14	1.23E-05	5.98E-03
+cilium movement (GO:0003341)	81	2	15.28	-	.13	1.25E-04	2.03E-02
+cytoplasmic translation (GO:0002181)	118	2	22.27	-	.09	4.66E-07	4.53E-04
+ATP synthesis coupled electron transport (GO:0042773)	71	1	13.40	-	.07	1.24E-04	2.05E-02
+oxidative phosphorylation (GO:0006119)	78	1	14.72	-	.07	3.45E-05	9.27E-03
+mitochondrial ATP synthesis coupled electron transport (GO:0042775)	67	0	12.64	-	 < 0.01	1.40E-05	6.07E-03
+aerobic electron transport chain (GO:0019646)	62	0	11.70	-	 < 0.01	3.35E-05	9.33E-03

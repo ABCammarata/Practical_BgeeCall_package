@@ -1,0 +1,7 @@
+	species_id	run_ids	reads_size	 rnaseq_lib_path	transcriptome_path	annotation_path	output_directory	devStage
+0	7227	SRR384929	100	./RNA_seq/SRX109278	./Data/Drosophila_melanogaster_Transcriptome.cdna.all.fa	./Data/Drosophila_melanogaster_Annotation.chr.gtf	./Output/SRX109278/cutoff_0.01	FBdv:00007079
+1	7227	SRR384930	100	./RNA_seq/SRX109279	./Data/Drosophila_melanogaster_Transcriptome.cdna.all.fa	./Data/Drosophila_melanogaster_Annotation.chr.gtf	./Output/SRX109279/cutoff_0.01	FBdv:00007079
+2	7227	SRR1197301	100	./RNA_seq/SRX493950	./Data/Drosophila_melanogaster_Transcriptome.cdna.all.fa	./Data/Drosophila_melanogaster_Annotation.chr.gtf	./Output/SRX493950/cutoff_0.01	FBdv:00007079
+3	7227	SRR1197297	100	./RNA_seq/SRX493999	./Data/Drosophila_melanogaster_Transcriptome.cdna.all.fa	./Data/Drosophila_melanogaster_Annotation.chr.gtf	./Output/SRX493999/cutoff_0.01	FBdv:00007079
+4	7227	SRR3419767	75	./RNA_seq/SRX1720957	./Data/Drosophila_melanogaster_Transcriptome.cdna.all.fa	./Data/Drosophila_melanogaster_Annotation.chr.gtf	./Output/SRX1720957/cutoff_0.01	UBERON:0000066
+5	7227	SRR3419768	75	./RNA_seq/SRX1720958	./Data/Drosophila_melanogaster_Transcriptome.cdna.all.fa	./Data/Drosophila_melanogaster_Annotation.chr.gtf	./Output/SRX1720958/cutoff_0.01	UBERON:0000066
